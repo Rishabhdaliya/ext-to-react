@@ -1,0 +1,45 @@
+/* Modal Window Styles */
+.device-payment-history {
+  background-color: #f9f9f9; /* Light background color */
+  padding: 20px; /* Add padding inside the modal */
+  border-radius: 8px; /* Rounded corners */
+  font-family: Arial, sans-serif; /* Default font family */
+}
+
+/* Heading Styles */
+.device-payment-history h2 {
+  color: #333; /* Darker heading text */
+  margin-bottom: 10px; /* Add spacing below heading */
+}
+
+/* Paragraph Styles */
+.device-payment-history p {
+  color: #666; /* Lighter text color */
+  line-height: 1.6; /* Increase line spacing */
+}
+
+/* Button Styles */
+.device-payment-history .x-btn {
+  background-color: #000000 !important; /* Primary button color */
+  color: #fff; /* White text */
+  border: none; /* Remove border */
+  border-radius: 4px;
+  padding: 5px 15px; /* Button padding */
+}
+
+.device-payment-history .x-btn:hover {
+  background-color: #000000 !important; /* Darker shade on hover */
+}
+
+.payment-history-table .x-grid-header {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+.payment-history-table .x-grid-row {
+  border-bottom: 1px solid #ddd;
+}
+
+.payment-history-table .x-grid-cell {
+  padding: 10px;
+}
